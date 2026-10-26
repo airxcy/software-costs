@@ -1,0 +1,9 @@
+# Publish only the reviewed, self-contained site and its repository documentation.
+# This is an accident-prevention measure, not access control or history removal.
+/*
+!/index.html
+!/README.md
+!/LICENSE
+!/.gitignore
+!/.nojekyll
+# Existing tracked deletions should remain deleted; ignored files are not untracked automatically.
