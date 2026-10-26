@@ -1,0 +1,41 @@
+[
+  {
+    "product": "VA Electronic Health Record Modernization (Oracle Health)",
+    "sector": "National healthcare system",
+    "currency": "USD",
+    "amount": 13840000000,
+    "amountType": "Cumulative obligations, not software list price or cash paid",
+    "period": "FY2018 through Q2 FY2025",
+    "sourceDate": "2026",
+    "sourceURL": "https://files.gao.gov/reports/GAO-26-109393/index.html",
+    "scope": "Whole EHRM program. EHR contract USD5.85bn; IT infrastructure USD3.35bn; program management USD1.48bn; VHA USD2.85bn; OIT USD324m. Rounded components.",
+    "rankEligible": false,
+    "fiveYearConversionAllowed": false
+  },
+  {
+    "product": "NSW Single Digital Patient Record (Epic)",
+    "sector": "State healthcare system",
+    "currency": "AUD",
+    "amount": 1033997744.2,
+    "amountType": "Historical original award notice, including GST",
+    "period": "2023-08-28 to 2033-08-27",
+    "sourceDate": "2023-10-31",
+    "sourceURL": "https://buy.nsw.gov.au/notices/7C34034B-ED30-E7AA-D79E13B3E89CD920",
+    "scope": "SDPR solution including associated services. Not current amended contract or single hospital software license. Original official notice indexed; direct fetch returned 403. Later 2025 reporting cited a different contract value.",
+    "rankEligible": false,
+    "fiveYearConversionAllowed": false
+  },
+  {
+    "product": "Services Australia GovERP (SAP-based)",
+    "sector": "Government ERP modernization",
+    "currency": "AUD",
+    "amount": 198150000,
+    "amountType": "Expenditure by Services Australia as of 2023-12-31",
+    "period": "Historical development/transition program; not a fixed five-year software term",
+    "sourceDate": "2024",
+    "sourceURL": "https://www.digital.gov.au/initiatives/enterprise-resource-planning/erp-delivery-and-expenditure",
+    "scope": "Platform design/build, onboarding, migration, management and related activities. Distinguish actual spending from AUD246.1m allocated to Services Australia and AUD340.6m across agencies.",
+    "rankEligible": false,
+    "fiveYearConversionAllowed": false
+  }
+]

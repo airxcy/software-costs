@@ -1,0 +1,9 @@
+{
+  "browser": "Chromium headless",
+  "uiChecks": "passed",
+  "calculatedRowsChecked": 63,
+  "growthScenariosChecked": 2,
+  "unknownsNotZero": true,
+  "consoleErrors": [],
+  "desktopAndMobileScreenshots": true
+}

@@ -1,0 +1,14 @@
+{
+  "checked": "2026-10-26",
+  "groups": {
+    "Professional licenses": 45,
+    "Data, platforms and infrastructure": 18,
+    "Procurement context": 2,
+    "Unpriced products": 20
+  },
+  "distinctSources": 72,
+  "independentChecks": 10,
+  "formulaChecks": "passed",
+  "unknownsPreserved": true,
+  "maintenanceRangeChecked": true
+}
