@@ -12,7 +12,7 @@ The local directory name `software-value` does not change the repository name or
 - 63 priced configurations, 24 unpriced products, and 3 mixed procurement contexts within the price research.
 - 9 investment and acquisition records, including the completed Synopsys acquisition of Ansys.
 - 16 derived scenarios for 100 and 1,000 full paid users.
-- CATL's 2021–2025 historical software-purchase subtotal.
+- Historical accounting subtotals retained as context within related purchase records.
 - 163 external source pages, including Chinese-name references, and the original methodology notes.
 - 49 records with verified Chinese names and source wording beside the English labels.
 
@@ -78,3 +78,5 @@ The existing dual license is retained:
 External cited publications remain subject to their respective owners' terms; this repository publishes curated facts and summaries with links rather than copies of the source documents.
 
 Research date: 26 October 2026. FX snapshot: 23 October 2026. Prices and fees are point-in-time references, with scope and exclusions retained in each record; they are not vendor quotations or complete deployment budgets.
+
+The [Chinese Markdown tables](software-costs-zh.md) provide a static companion covering all 162 base records and 16 user-scale scenarios, with historical subtotals in the related record notes. They cite the published website as their consolidated source.

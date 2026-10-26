@@ -7,3 +7,4 @@
 !/.gitignore
 !/.nojekyll
 # Existing tracked deletions should remain deleted; ignored files are not untracked automatically.
+!/software-costs-zh.md
