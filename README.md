@@ -8,13 +8,14 @@ The local directory name `software-value` does not change the repository name or
 
 ## Contents
 
-- 162 base research records: 90 software/configuration records and 72 corporate records.
-- 63 priced configurations, 24 unpriced products, and 3 mixed procurement contexts within the price research.
+- 185 base research records: 113 software/configuration records and 72 corporate records.
+- 74 paid configurations, 11 confirmed no-license-fee tools, 25 unpriced products, and 3 mixed procurement contexts within the price research.
 - 9 investment and acquisition records, including the completed Synopsys acquisition of Ansys.
 - 16 derived scenarios for 100 and 1,000 full paid users.
 - Historical accounting subtotals retained as context within related purchase records.
-- 163 external source pages, including Chinese-name references, and the original methodology notes.
+- 185 external source pages, including Chinese-name references, and the original methodology notes.
 - 49 records with verified Chinese names and source wording beside the English labels.
+- 23 reverse-engineering configurations added on 1 November 2026: 11 paid, 11 with no upstream license fee, and one quote-only product.
 
 The five-year amounts retain their evidence type: known-fee scenario, actual contract, conditional service renewal, ceiling, or historical accounting subtotal. Acquisition consideration is not a software license price or five-year usage cost.
 
@@ -77,6 +78,8 @@ The existing dual license is retained:
 
 External cited publications remain subject to their respective owners' terms; this repository publishes curated facts and summaries with links rather than copies of the source documents.
 
-Research date: 26 October 2026. FX snapshot: 23 October 2026. Prices and fees are point-in-time references, with scope and exclusions retained in each record; they are not vendor quotations or complete deployment budgets.
+Original research date: 26 October 2026. Reverse-engineering tool update: 1 November 2026. FX snapshot: 23 October 2026. Other records retain their original source dates. Prices and fees are point-in-time references, with scope and exclusions retained in each record; they are not vendor quotations or complete deployment budgets.
 
-The [Chinese Markdown tables](software-costs-zh.md) provide a static companion covering all 162 base records and 16 user-scale scenarios, with historical subtotals in the related record notes. They cite the published website as their consolidated source.
+The [Chinese Markdown tables](software-costs-zh.md) provide a static companion covering all 185 base records and 16 user-scale scenarios, with historical subtotals in the related record notes. They cite the published website as their consolidated source.
+
+Reverse-engineering records cover REA, Hopper, Ghidra, IDA editions, Kuna, JADX, Frida, Wireshark, Binwalk, Unblob, WABT, sigrok-cli and Fiddler Everywhere. Starting prices remain lower bounds. Hopper figures retain the purchased version entitlement with one year of updates; optional later updates are excluded. Zero values cover only confirmed upstream software license fees, excluding commercial engines, AI-provider usage, support, hardware and labor. IDA Pro uses the visible EUR price cards and records the conflicting USD analytics tags.
